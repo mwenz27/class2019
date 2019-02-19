@@ -2,4 +2,4 @@
 cd ~/Desktop/
 touch virus
 echo "first bash command" >> virus
-open virus_file_2
+open virus
