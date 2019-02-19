@@ -1,0 +1,5 @@
+#!/bin/bash
+cd ~/Desktop/test_folder/
+touch virus_file_check
+echo "first bash command" >> virus_file_check
+open virus_file_check
